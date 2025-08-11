@@ -1,6 +1,7 @@
 ## Hi there 👋, I am an Electrical and Computer Engineering student at the University of Cape Town [UCT](https://www.uct.ac.za/research-innovation/rankings)
 - 🔭 I’m currently working on a machine learning competition, where I and my team are supposed to predict the success of an individual job application
-  -  I’m looking to collaborate on any project data science 
+-  I’m looking to collaborate on any project data science
+-  You can reach out to me on my [instagram](https://www.instagram.com/thompho_2023/)
 
 <!--
 **Thompho-Madia/Thompho-Madia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
