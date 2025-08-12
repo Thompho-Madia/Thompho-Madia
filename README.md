@@ -1,22 +1,19 @@
-## Hi there 👋, I am an Electrical and Computer Engineering student at the University of Cape Town [UCT](https://www.uct.ac.za/research-innovation/rankings)
- <img align="right" src="UCT_Logo.png" width="100" alt="Right-aligned image" />
-- 🔭 I’m currently working on a machine learning competition, where I and my team are supposed to predict the success of an individual job application [kaggle](https://www.kaggle.com/competitions/south-african-opportunity-prediction-challenge/overview)
--  I’m looking to collaborate on any project data science
--  You can reach out to me on my [instagram](https://www.instagram.com/thompho_2023/)
- 
+## Hi there 👋 
 
+I'm an Electrical and Computer Engineering student at the [University of Cape Town](https://www.uct.ac.za/research-innovation/rankings)
 
-<!--
-**Thompho-Madia/Thompho-Madia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="UCT_Logo.png" width="120" alt="UCT Logo" style="margin-top: -10px;" />
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- Machine learning competition: Predicting job application success ([Kaggle Challenge](https://www.kaggle.com/competitions/south-african-opportunity-prediction-challenge/overview))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Interests & Collaboration
+- Open to collaborate on Data Science projects
+- Passionate about AI/ML applications in engineering
+
+### 📫 Connect With Me
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20">](https://www.instagram.com/thompho_2023/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/thompho-madia-3b2754231/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20">](mailto:nick5657mpho@gmail.com)
+
+<!-- Hidden profile template -->
