@@ -7,6 +7,7 @@ I'm an Electrical and Computer Engineering student at the [University of Cape To
 - I am currently working on a machine learning competition: Predicting job application success [Kaggle Challenge](https://www.kaggle.com/competitions/south-african-opportunity-prediction-challenge/overview)
 - Open to collaborate on anything DATA Science!!!
 - Passionate about data modeling and Electrical Engineering
+- A lover of Open Source ❤️
 
 ## 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">](https://www.instagram.com/thompho_2023/)
