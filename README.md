@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on a machine learning competition, where I and my team are supposed to predict the success of an individual job application [kaggle](https://www.kaggle.com/competitions/south-african-opportunity-prediction-challenge/overview)
 -  I’m looking to collaborate on any project data science
 -  You can reach out to me on my [instagram](https://www.instagram.com/thompho_2023/)
+  <img align="right" src="UCT_Logo.png" width="100" alt="Right-aligned image" />
+
 
 <!--
 **Thompho-Madia/Thompho-Madia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
