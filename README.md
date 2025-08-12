@@ -14,6 +14,6 @@ I'm an Electrical and Computer Engineering student at the [University of Cape To
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28">](https://www.youtube.com/@thompho5657)
 [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28">](https://www.reddit.com/user/Mindless_Art_5772/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">](https://github.com/Thompho-Madia)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">](nick5657mpho@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">](mailto:nick5657mpho@gmail.com)
 
 <!-- Hidden profile template -->
