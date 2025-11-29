@@ -4,8 +4,6 @@ I'm an Electrical and Computer Engineering student at the [University of Cape To
 
 <img align="right" src="UCT_Logo.png" width="120" alt="UCT Logo" style="margin-top: -10px;" />
 
-- I am currently working on a machine learning competition: Predicting job application success [Kaggle](https://www.kaggle.com/competitions/south-african-opportunity-prediction-challenge/overview)
-- Open to collaborate on anything DATA Science!!!
 - Passionate about data modeling and Electrical Engineering
 - A lover of Open Source Projects❤️
 
